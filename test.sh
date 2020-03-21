@@ -1,1 +1,1 @@
-echo test 1 2
+echo test 1 2 3
